@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: service
+metadata:
+  name: nginx-service
+  lables:
+    app: my-add
+spec:
+      
